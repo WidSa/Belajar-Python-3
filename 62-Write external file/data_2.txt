@@ -1,0 +1,1 @@
+data kedua baris pertama tambah append pada data 2
